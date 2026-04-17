@@ -1,132 +1,49 @@
-<!-- 🔹 Header -->
-<h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
+<!-- 🔹 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Hi%20👋,%20I'm%20Shubham%20Pawar&fontSize=45&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhhya17&label=Profile+Views&color=00F7FF&style=flat-square" alt="Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 I am a passionate software developer who enjoys building modern, responsive, and user-friendly web applications.  
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm93Ymd6Z3BqZ3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-🚀 Skilled in **HTML, CSS, JavaScript, React, Next.js, and Git/GitHub**, with a focus on clean and efficient code.  
-
-🎯 I have worked on real-world projects focusing on intuitive UI design, seamless user experience, and fully responsive layouts.  
-
-🧠 I enjoy problem-solving, learning new technologies, and continuously improving my development skills.  
-
-🔥 Currently learning the **MERN stack** to grow as a full-stack developer and gain industry-level experience.  
-
-🚀 Always eager to take on new challenges and build impactful projects.  
+- 💻 I am a passionate **Software Developer** focused on building modern, responsive, and user-friendly web applications.
+- 🚀 Expert in **React, Next.js, and the MERN Stack** with a focus on clean, scalable code.
+- 🎯 Specialized in intuitive UI/UX design and seamless user experiences.
+- 🧠 Currently deep-diving into **PostgreSQL, Prisma, and Docker** for full-stack mastery.
+- 🔥 Always learning, always building, and always eager to take on new challenges.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=React+⚡+Next.js+⚡+Node.js+⚡+PostgreSQL+⚡+Prisma+⚡+Docker" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,tailwind,git,github,vscode,postman" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-00F7FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
-</p>
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shubhhya17&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhhya17&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
-## 🚀 Insights
-
-<table width="100%">
-<tr>
-
-<td align="center">
-
-<h3>👀 Profile Views</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Shubhhya17&label=Visitors&color=0e75b6&style=for-the-badge" />
-
-</td>
-
-<td align="center">
-
-<h3>💻 Most Used Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhhya17&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-
-<td align="center">
-
-<h3>🔗 Connect</h3>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-
-💻 Most Used Languages  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhhya17&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-
-<td width="33%" align="center">
-
-🔗 Connect  
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhhya17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubham's Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhhya17&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhhya17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -134,5 +51,25 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhhya17&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhhya17&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00F7FF" width="100%" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
 </p>
