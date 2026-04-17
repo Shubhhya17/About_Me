@@ -26,11 +26,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,postgres,prisma" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,css,html" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=React+⚡+Next.js+⚡+Node.js+⚡+PostgreSQL+⚡+Prisma+⚡+Docker" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-00F7FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+</p>
 
 ## 📊 GitHub Stats
 
