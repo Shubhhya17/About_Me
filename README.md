@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
 
-<h3 align="center">Frontend Developer | MERN Stack Developer | Freelancer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Freelancer;React+%7C+Next.js+%7C+Node.js" />
+</h3>
 
 ---
 
-## 🔍 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubhhya17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 💻 I’m a passionate **Software Developer**
-- 🚀 Skilled in **React, Next.js, Node.js**
-- 🧠 Strong in **Data Structures & Algorithms**
-- 🔧 Love building scalable web apps
-- 📫 Reach me at: **your@email.com**
+---
+
+## 🚀 About Me
+
+- 💻 Passionate **Software Developer**
+- ⚡ Love building **Modern UI + Scalable Apps**
+- 🧠 Strong in **DSA & Problem Solving**
+- 🔥 Currently learning **Full Stack (MERN)**
+- 📫 Reach me: **your@email.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,github" />
 </p>
 
@@ -25,19 +33,39 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhhya17&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhhya17&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhhya17&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhhya17&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhhya17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhhya17&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+</p>
+
+---
+
+## ⚡ Fun Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
